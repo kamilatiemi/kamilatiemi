@@ -3,6 +3,7 @@
 ### 📊 Data Analyst | Data Storyteller | Design Enthusiast 🎨
 
 After 8 years in design, I realized that the best visuals are the ones backed by solid data. Now, I work as a Data Analyst, balancing the technical side (Python/SQL/Databricks) with a designer’s obsession for UI and UX. I specialize in taking messy, high-volume data and turning it into dashboards that are as accurate as they are beautiful.
+
 ---
 
 ### 🛠️ My Tech Stack
@@ -18,7 +19,8 @@ After 8 years in design, I realized that the best visuals are the ones backed by
 
 ---
 
-💼 Professional Focus
+### 💼 Professional Focus
+
 In my current role as a *Data Analyst*, I specialize in:
 
 **ETL Orchestration:** Leveraging Databricks and SQL to maintain and optimize large-scale data pipelines.
