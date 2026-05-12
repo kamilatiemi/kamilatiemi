@@ -1,15 +1,13 @@
 # Hi there, I'm Kamila! 👋
 
 ### 📊 Data Analyst | Data Storyteller | Design Enthusiast 🎨
-
-I am a Data Analyst who believes that data should not only be accurate but also visually engaging. With a background in **Design**, I bridge the gap between complex backend data processing and high-end visual communication.
-
+After 8 years in design, I realized that the best visuals are the ones backed by solid data. Now, I work as a Data Analyst, balancing the technical side (Python/SQL/Databricks) with a designer’s obsession for UI and UX. I specialize in taking messy, high-volume data and turning it into dashboards that are as accurate as they are beautiful.
 ---
 
 ### 🛠️ My Tech Stack
 
 **Data Science & Analysis**
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Pyspark
 - **Environment:** Databricks, Jupyter Notebooks
 - **Visualization:** Power BI (Advanced Dashboard UX/UI)
 
@@ -20,20 +18,20 @@ I am a Data Analyst who believes that data should not only be accurate but also 
 ---
 
 💼 Professional Focus
-In my current role as a Data Analyst, I specialize in:
+In my current role as a *Data Analyst*, I specialize in:
 
-ETL Orchestration: Leveraging Databricks and SQL to maintain and optimize large-scale data pipelines.
+**ETL Orchestration:** Leveraging Databricks and SQL to maintain and optimize large-scale data pipelines.
 
-Automated Analysis: Building Python scripts (Pandas/NumPy) to streamline data cleaning and quality checks.
+**Automated Analysis:** Building Python scripts (Pandas/NumPy) to streamline data cleaning and quality checks.
 
-Executive Storytelling: Designing high-fidelity Power BI dashboards that utilize custom UI assets created in Figma to drive stakeholder engagement.
+**Executive Storytelling:** Designing high-fidelity Power BI dashboards that utilize custom UI assets created in Figma to drive stakeholder engagement.
 
 ---
 
 ### 🎨 The Intersection of Data & Design
-I don't just build charts; I design experiences. By using **Figma** to create custom layouts for **Power BI**, I turn standard reports into professional, branded storytelling tools. 
+By using **Figma** to create custom layouts for **Power BI**, I turn standard reports into professional, branded storytelling tools. 
 
-- Check out my **https://www.behance.net/tiemerrr** to see how I combine these two worlds.
+- Check out my behance **[https://www.behance.net/tiemerrr]** to see how I combine these two worlds.
 
 ---
 
