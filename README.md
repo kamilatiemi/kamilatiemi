@@ -1,6 +1,7 @@
 # Hi there, I'm Kamila! 👋
 
 ### 📊 Data Analyst | Data Storyteller | Design Enthusiast 🎨
+
 After 8 years in design, I realized that the best visuals are the ones backed by solid data. Now, I work as a Data Analyst, balancing the technical side (Python/SQL/Databricks) with a designer’s obsession for UI and UX. I specialize in taking messy, high-volume data and turning it into dashboards that are as accurate as they are beautiful.
 ---
 
